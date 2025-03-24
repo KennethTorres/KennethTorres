@@ -18,9 +18,19 @@ const KennethTorres = {
 <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KennethTorres&theme=github_dark" />
 </p>
 
+<h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
 
+<br/>
 
-🗂 Highlight Projects
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=github,git,nodejs,mongodb,javascript,ubuntu,python,java,tailwind,bootstrap,html,css,mysql,dotnet" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,cpp,cs,notion,figma,pycharm,c,bash,kali,pwsh,astro,express,nuxtjs" /><br>
+</div>
+
+<br/>
+
+<h3 align="center">🗂 Highlight Projects</h3>
+
 <div align="center">
    <a href="https://github.com/KennethTorres/Landing-Page-Nuxt">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KennethTorres&repo=Landing-Page-Nuxt&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" alt="Landing-Page-Nuxt" />
