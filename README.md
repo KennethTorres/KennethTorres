@@ -18,7 +18,7 @@ const KennethTorres = {
 <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KennethTorres&theme=github_dark" />
 </p>
 
-<h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
+<h3 align="center">📚 Languages & tools </h3>
 
 <br/>
 
