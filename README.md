@@ -35,11 +35,11 @@ const KennethTorres = {
 
 <div align="center">
    <a href="https://github.com/KennethTorres/Landing-Page-Nuxt">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KennethTorres&repo=Landing-Page-Nuxt&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" alt="Landing-Page-Nuxt" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KennethTorres&repo=Landing-Page-Nuxt&description&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" alt="Landing-Page-Nuxt" />
   </a>
 
   <a href="https://github.com/KennethTorres/Password-Generator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KennethTorres&repo=Password-Generator&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" alt="Password-Generator" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KennethTorres&repo=Password-Generator&description&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" alt="Password-Generator" />
   </a>
 </div>
  
