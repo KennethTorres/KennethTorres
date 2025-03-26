@@ -37,8 +37,8 @@ const KennethTorres = {
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KennethTorres&repo=Landing-Page-Nuxt&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" alt="Landing-Page-Nuxt" />
   </a>
 
-  <a href="https://github.com/KennethTorres/prueba">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KennethTorres&repo=prueba&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" alt="Password-Generator" />
+  <a href="https://github.com/KennethTorres/Password-Generator">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KennethTorres&repo=Password-Generator&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" alt="Password-Generator" />
   </a>
 </div>
  
