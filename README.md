@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KennethTorres&label=Profile%20views&color=0e75b6&style=flat" alt="KennethTorres" /> </p>
+
 ```javascript
 const KennethTorres = {
   pronouns: "he/him",
@@ -12,6 +14,7 @@ const KennethTorres = {
   ]
 }
 ```
+
 
 
 <h1 align="center">Github Metrics </h1><p align="center">
