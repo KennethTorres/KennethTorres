@@ -25,8 +25,8 @@ const KennethTorres = {
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,nodejs,mongodb,javascript,ubuntu,python,java,tailwind,bootstrap,html,css,mysql,dotnet" /><br>
-  <img src="https://skillicons.dev/icons?i=vscode,cpp,cs,notion,figma,pycharm,c,bash,kali,pwsh,astro,express,nuxtjs" /><br>
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,notion,pycharm,javascript,python,java,c,cpp,cs,html,css,bootstrap,tailwind" /><br>
+  <img src="https://skillicons.dev/icons?i=figma,nodejs,express,dotnet,mongodb,mysql,ubuntu,bash,kali,linux,r,pwsh,astro,nuxtjs" /><br>
 </div>
 
 <br/>
