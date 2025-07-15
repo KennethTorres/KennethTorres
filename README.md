@@ -44,20 +44,23 @@ const KennethTorres = {
  My Stacks 
  <img src="./assets/icons/stack-black.svg" width=20>
 </h3>
-
+<br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=github,git,vscode,notion,pycharm,javascript,python,java,c,cpp,cs,html,css,bootstrap,tailwind" /><br>
   <img src="https://skillicons.dev/icons?i=figma,nodejs,express,dotnet,mongodb,mysql,ubuntu,bash,kali,linux,r,pwsh,astro,nuxtjs" /><br>
 </div>
 
 <br/>
-<br>
-<h3>
-   <img src="./assets/icons/bookmark-white.svg" width="12px">
-   My Best Repositories
-   <img src="./assets/icons/bookmark-black.svg" width="14px">
-  </h3>
+<br/>
 
+<div align="center">
+  <h3>
+     <img src="./assets/icons/bookmark-white.svg" width="12px">
+     My Best Repositories
+     <img src="./assets/icons/bookmark-black.svg" width="14px">
+  </h3>
+</div>
+<br/>
 <div align="center">
    <a href="https://github.com/KennethTorres/Landing-Page-Nuxt">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KennethTorres&repo=Landing-Page-Nuxt&description&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" alt="Landing-Page-Nuxt" />
