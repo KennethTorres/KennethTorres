@@ -32,8 +32,7 @@ const KennethTorres = {
 
 <!-- Status -->
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=KennethTorres&theme=graywhite&hide_border=true&locale=en&mode=weekly)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KennethTorres&theme=graywhite&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 <br>
 <br>
