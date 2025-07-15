@@ -16,11 +16,28 @@ const KennethTorres = {
 
 
 
-<h1 align="center">Github Metrics </h1><p align="center">
-<img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KennethTorres&theme=github_dark" />
-</p>
+<!-- github status-->
+<!-- Titutlo -->
+<h3 align="center">
+<img src="./assets/icons/github-white.svg" width=18>
+ Github Status 
+<img src="./assets/icons/github-black.svg" width=22>
+</h3>
+<br>
 
-<h3 align="center">📚 Languages & tools </h3>
+<!-- Status -->
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=KennethTorres&theme=graywhite&hide_border=true&locale=en&mode=weekly)](https://git.io/streak-stats)
+</div>
+
+<!-- My Stacks -->
+<!-- Titulo -->
+<h3 align="center">
+ <img src="./assets/icons/stack-white.svg" width=17>
+ My Stacks 
+ <img src="./assets/icons/stack-black.svg" width=20>
+</h3>
 
 <br/>
 
@@ -31,7 +48,11 @@ const KennethTorres = {
 
 <br/>
 
-<h3 align="center">🗂 Highlight Projects</h3>
+<h3>
+   <img src="./assets/icons/bookmark-white.svg" width="12px">
+   My Best Repositories
+   <img src="./assets/icons/bookmark-black.svg" width="14px">
+  </h3>
 
 <div align="center">
    <a href="https://github.com/KennethTorres/Landing-Page-Nuxt">
