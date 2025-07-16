@@ -29,7 +29,7 @@ const KennethTorres = {
 </a>
 <a href="https://mail.google.com/mail/?view=cm&to=kennethtorresbrizuela@gmail.com" target="_blank">
   <img src="./assets/icons/Gmail.png" alt="Imagen de Gmail"  style="width:100px; height:100px"/>
-<a href="https://www.linkedin.com/in/kennethtorresbrizuela" target="_blank">
+<a href="https://t.me/KennethTB" target="_blank">
   <img src="./assets/icons/Telegram.png" alt="Imagen de Telegram"  style="width:100px; height:100px"/>
 </a>
 </div>
