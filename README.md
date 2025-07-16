@@ -1,5 +1,5 @@
 <a href="https://github.com/KennethTorres">
-  <img src="./assets/Galaxy.png" alt="Imagem de Galaxia"  style="width:100%; height:auto"/>
+  <img src="./assets/Galaxy.png" alt="Imagen de Galaxia"  style="width:100%; height:auto"/>
 </a>
 <br>
 <br>
@@ -23,11 +23,14 @@ const KennethTorres = {
 <br>
 
 <div align="center">
-<a href="https://mail.google.com/mail/?view=cm&to=kennethtorresbrizuela@gmail.com" target="_blank">
-  <img src="./assets/icons/Gmail.png" alt="Imagem de Gmail"  style="width:100px; height:100px"/>
-</a>
+  </a>
 <a href="https://www.linkedin.com/in/kennethtorresbrizuela" target="_blank">
-  <img src="./assets/icons/Linkedin.png" alt="Imagem de Linkedin"  style="width:100px; height:100px"/>
+  <img src="./assets/icons/Linkedin.png" alt="Imagen de Linkedin"  style="width:100px; height:100px"/>
+</a>
+<a href="https://mail.google.com/mail/?view=cm&to=kennethtorresbrizuela@gmail.com" target="_blank">
+  <img src="./assets/icons/Gmail.png" alt="Imagen de Gmail"  style="width:100px; height:100px"/>
+<a href="https://www.linkedin.com/in/kennethtorresbrizuela" target="_blank">
+  <img src="./assets/icons/Telegram.png" alt="Imagen de Telegram"  style="width:100px; height:100px"/>
 </a>
 </div>
 <br>
