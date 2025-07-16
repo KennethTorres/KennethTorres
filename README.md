@@ -4,6 +4,7 @@
 <br>
 <br>
 
+
 ```javascript
 const KennethTorres = {
   pronouns: "he/him",
@@ -21,6 +22,16 @@ const KennethTorres = {
 <br>
 <br>
 
+<div align="center">
+<a href="https://mail.google.com/mail/?view=cm&to=kennethtorresbrizuela@gmail.com" target="_blank">
+  <img src="./assets/icons/Gmail.png" alt="Imagem de Gmail"  style="width:100px; height:100px"/>
+</a>
+<a href="https://www.linkedin.com/in/kennethtorresbrizuela" target="_blank">
+  <img src="./assets/icons/Linkedin.png" alt="Imagem de Linkedin"  style="width:100px; height:100px"/>
+</a>
+</div>
+<br>
+<br>
 <!-- github status-->
 <!-- Titutlo -->
 <h3 align="center">
