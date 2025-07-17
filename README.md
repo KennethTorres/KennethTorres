@@ -33,8 +33,11 @@ const KennethTorres = {
   <img src="./assets/icons/Telegram.png" alt="Imagen de Telegram"  style="width:100px; height:100px"/>
 </a>
 </div>
+  
 <br>
 <br>
+
+  
 <!-- github status-->
 <!-- Titutlo -->
 <h3 align="center">
@@ -47,6 +50,25 @@ const KennethTorres = {
 <!-- Status -->
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KennethTorres&theme=graywhite&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
+</div>
+<br>
+<br>
+<!-- My Certificates-->
+  <div align="center">
+  <h3>
+     <img src="./assets/icons/bookmark-white.svg" width="12px">
+     My Certificates
+     <img src="./assets/icons/bookmark-black.svg" width="14px">
+  </h3>
+</div>
+<br>
+<div align="center">
+<a href="https://certificados.midudev.com/21505caa-8af9-47fd-8bf7-06f80523f427.pdf" target="_blank">
+  <img src="./assets/certificates/Midudev.png" alt="Imagen de Certificado"  style="width:60px; height:60px"/>
+</a>
+<a href="https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-KennethTorres-1075951.pdf" target="_blank">
+  <img src="./assets/certificates/Scrum.png" alt="Imagen de Certificado"  style="width:60px; height:60px"/>
+</a>
 </div>
 <br>
 <br>
