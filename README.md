@@ -69,6 +69,9 @@ const KennethTorres = {
 <a href="https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-KennethTorres-1075951.pdf" target="_blank">
   <img src="./assets/certificates/Scrum.png" alt="Imagen de Certificado"  style="width:60px; height:60px"/>
 </a>
+  <a href="" target="_blank">
+  <img src="./assets/certificates/AluraLatam.png" alt="Imagen de Certificado"  style="width:60px; height:60px"/>
+</a>
 </div>
 <br>
 <br>
