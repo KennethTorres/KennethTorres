@@ -20,7 +20,14 @@ const KennethTorres = {
 }
 ```
 <br>
+<div align="center">
+  <h3>
+    <img src="./assets/icons/ContactList-white.svg" width=20px>
+     My Contacts
+  </h3>
+<div/>
 <br>
+
 
 <div align="center">
   </a>
@@ -41,9 +48,9 @@ const KennethTorres = {
 <!-- github status-->
 <!-- Titutlo -->
 <h3 align="center">
-<img src="./assets/icons/github-white.svg" width=18>
- Github Status 
-<img src="./assets/icons/github-black.svg" width=22>
+  <img src="./assets/icons/github-white.svg" width=20px>
+     Github Status 
+
 </h3>
 <br>
 
@@ -54,11 +61,10 @@ const KennethTorres = {
 <br>
 <br>
 <!-- My Certificates-->
-  <div align="center">
+<div align="center">
   <h3>
-     <img src="./assets/icons/bookmark-white.svg" width="12px">
-     My Certificates
-     <img src="./assets/icons/bookmark-black.svg" width="14px">
+     <img src="./assets/icons/CertificateBadgeFill-white.svg" width="22px">
+    My Certificates
   </h3>
 </div>
 <br>
@@ -80,12 +86,14 @@ const KennethTorres = {
 <h3 align="center">
  <img src="./assets/icons/stack-white.svg" width=17>
  My Stacks 
- <img src="./assets/icons/stack-black.svg" width=20>
 </h3>
 <br/>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,notion,pycharm,javascript,python,java,c,cpp,cs,html,css,bootstrap,tailwind" /><br>
-  <img src="https://skillicons.dev/icons?i=figma,nodejs,express,dotnet,mongodb,mysql,ubuntu,bash,kali,linux,r,pwsh,astro,nuxtjs" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=react,java,nodejs,express,vite,dotnet" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,python,astro,postman,git" /><br>
+    <img src="https://skillicons.dev/icons?i=r,figma,angular,notion,cs" /><br>
 </div>
 
 <br/>
@@ -95,7 +103,6 @@ const KennethTorres = {
   <h3>
      <img src="./assets/icons/bookmark-white.svg" width="12px">
      My Best Repositories
-     <img src="./assets/icons/bookmark-black.svg" width="14px">
   </h3>
 </div>
 <br/>
