@@ -20,7 +20,12 @@ const KennethTorres = {
 }
 ```
 <br>
+<h3 align="center">
+<img src="./assets/icons/ContactList-white.svg" width=18>
+ Contacts
+</h3>
 <br>
+
 
 <div align="center">
   </a>
@@ -54,11 +59,10 @@ const KennethTorres = {
 <br>
 <br>
 <!-- My Certificates-->
-  <div align="center">
+<div align="center">
   <h3>
-     <img src="./assets/icons/bookmark-white.svg" width="12px">
-     My Certificates
-     <img src="./assets/icons/bookmark-black.svg" width="14px">
+     <img src="./assets/icons/CertificateBadgeFill-white.svg" width="22px">
+    My Certificates
   </h3>
 </div>
 <br>
