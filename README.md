@@ -1,9 +1,12 @@
+<!-- Imagen del banner al principio del perfil -->
+
 <a href="https://github.com/KennethTorres">
   <img src="./assets/Galaxy.png" alt="Imagen de Galaxia"  style="width:100%; height:auto"/>
 </a>
 <br>
 <br>
 
+<!-- Descripcion de mi en formato de codigo javascript -->
 
 ```javascript
 const KennethTorres = {
@@ -19,25 +22,58 @@ const KennethTorres = {
   ]
 }
 ```
+
+
+  <!-- Gif happyCoder en la parte del "quien soy"  -->
+  <img src="./assets/happyCoder.gif" width=330 align="left">
+  
+  <div align="center"> 
+    
+  <!-- Seccion de "quien soy" -->
+  **Who am I?**
+  </div>
+  
+  I am a Business Informatics student with a passion for technology, problem solving, and developing digital solutions that make an impact. My journey into programming began when I entered university, where I discovered software development and logical thinking.
+  
+  Since then, I have been building a solid foundation in programming, focusing especially on Web Development. Although I explore both Front-End and Back-End, I find greater affinity with Back-End, where I enjoy working with logic, data structures, and the connection between systems to build robust and efficient applications.
+   ㅤ
+  </br>
+  
+  
+  
+  <!-- Gif de la segunda seccion de "un poco mas sobre mi" -->
+  <img align="right" alt="capa-Sobre" width="300" src="./assets/letsCode.gif"></br>
+  
+  <!-- Titulo de "un poco mas sobre mi" -->
+   <h3 align="center">
+    <img src="./assets/icons/user-white.svg" width=15>
+    A Little More About Me 
+    <img src="./assets/icons/user-black.svg" width=15>
+   </h3>
+   
+  <!-- Seccion del contenido de "un poco mas sobre mi" -->
+   I consider myself a curious, focused person who is always looking for challenges that push me out of my comfort zone. I enjoy working with server-side technologies and structuring solid, clean, and scalable solutions. I enjoy learning from those who have more experience than me, and I also love sharing what I know with those who are just starting out. I believe in the importance of logical thinking, collaboration, and simplicity as key principles in software development.
+
+
 <br>
-<div align="center">
-  <h3>
+<br>
+  <h3 align="center">
+    <br>
     <img src="./assets/icons/ContactList-white.svg" width=20px>
      My Contacts
   </h3>
-<div/>
 <br>
 
 
 <div align="center">
   </a>
 <a href="https://www.linkedin.com/in/kennethtorresbrizuela" target="_blank">
-  <img src="./assets/icons/Linkedin.png" alt="Imagen de Linkedin"  style="width:100px; height:100px"/>
+  <img src="./assets/Redes Sociales/Linkedin.png" alt="Imagen de Linkedin"  style="width:100px; height:100px"/>
 </a>
 <a href="https://mail.google.com/mail/?view=cm&to=kennethtorresbrizuela@gmail.com" target="_blank">
-  <img src="./assets/icons/Gmail.png" alt="Imagen de Gmail"  style="width:100px; height:100px"/>
+  <img src="./assets/Redes Sociales/Gmail.png" alt="Imagen de Gmail"  style="width:100px; height:100px"/>
 <a href="https://t.me/KennethTB" target="_blank">
-  <img src="./assets/icons/Telegram.png" alt="Imagen de Telegram"  style="width:100px; height:100px"/>
+  <img src="./assets/Redes Sociales/Telegram.png" alt="Imagen de Telegram"  style="width:100px; height:100px"/>
 </a>
 </div>
   
@@ -90,10 +126,10 @@ const KennethTorres = {
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=react,java,nodejs,express,vite,dotnet" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,python,astro,postman,git" /><br>
-    <img src="https://skillicons.dev/icons?i=r,figma,angular,notion,cs" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,nuxtjs" /><br>
+    <img src="https://skillicons.dev/icons?i=react,java,nodejs,express,matlab,vite,dotnet" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,python,astro,github,postman,git" /><br>
+    <img src="https://skillicons.dev/icons?i=r,figma,angular,notion,cs,sublime" /><br>
 </div>
 
 <br/>
