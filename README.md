@@ -12,7 +12,7 @@
 const KennethTorres = {
   pronouns: "he/him",
   "Who am I?": "Developer who loves to build creative and innovative things. I mix technology + creativity."
-  role: "Software Engineer",
+  role: "Software Developer",
   code: [Javascript, Typescript, HTML, CSS, C#, Python, Java],
   tools: [React, Tailwind, Node, Express, Astro, NuxtJS],
   architecture: ["client-server", "MVC", "in layers"],
