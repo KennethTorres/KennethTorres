@@ -135,6 +135,13 @@ const KennethTorres = {
 <br/>
 <br/>
 
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=White&height=100&section=footer"
+    width="100%" 
+  />
+</p>
+<!--
 <div align="center">
   <h3>
      <img src="./assets/icons/bookmark-white.svg" width="12px">
@@ -153,12 +160,7 @@ const KennethTorres = {
 </div>
 
 
-<!-- ending-->
+ ending-->
 
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=White&height=100&section=footer"
-    width="100%" 
-  />
-</p>
+
  
