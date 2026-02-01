@@ -15,7 +15,7 @@ const KennethTorres = {
   role: "Software Developer",
   code: [Javascript, Typescript, HTML, CSS, C#, Python, Java],
   tools: [React, Tailwind, Node, Express, Astro, NuxtJS],
-  architecture: ["client-server", "MVC", "in layers"],
+  architecture: ["Client-server", "MVC", "N-Tier"],
   "What drives me?": [
      "Creating tools that make people's lives easier",
      "Troubleshooting"
