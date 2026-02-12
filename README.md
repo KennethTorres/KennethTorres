@@ -1,7 +1,7 @@
 <!-- Imagen del banner al principio del perfil -->
 
 <a href="https://github.com/KennethTorres">
-  <img src="./assets/Galaxy.png" alt="Imagen de Galaxia"  style="width:100%; height:auto"/>
+  <img src="./assets/" alt="Imagen de Galaxia"  style="width:100%; height:auto"/>
 </a>
 <br>
 <br>
