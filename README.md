@@ -67,7 +67,7 @@ const KennethTorres = {
 
 <div align="center">
   </a>
-<a href="https://www.linkedin.com/in/kennethtorresbrizuela" target="_blank">
+<a href="https://www.linkedin.com/in/kennethtorres" target="_blank">
   <img src="./assets/Redes Sociales/Linkedin.png" alt="Imagen de Linkedin"  style="width:100px; height:100px"/>
 </a>
 <a href="https://mail.google.com/mail/?view=cm&to=kennethtorresbrizuela@gmail.com" target="_blank">
