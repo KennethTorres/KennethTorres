@@ -23,7 +23,6 @@ const KennethTorres = {
 }
 ```
 
-
   <!-- Gif happyCoder en la parte del "quien soy"  -->
   <img src="./assets/happyCoder.gif" width=330 align="left">
   
@@ -54,7 +53,6 @@ const KennethTorres = {
   <!-- Seccion del contenido de "un poco mas sobre mi" -->
    I consider myself a curious, focused person who is always looking for challenges that push me out of my comfort zone. I enjoy working with server-side technologies and structuring solid, clean, and scalable solutions. I enjoy learning from those who have more experience than me, and I also love sharing what I know with those who are just starting out. I believe in the importance of logical thinking, collaboration, and simplicity as key principles in software development.
 
-
 <br>
 <br>
   <h3 align="center">
@@ -63,7 +61,6 @@ const KennethTorres = {
      My Contacts
   </h3>
 <br>
-
 
 <div align="center">
   </a>
@@ -80,7 +77,6 @@ const KennethTorres = {
 <br>
 <br>
 
-  
 <!-- github status-->
 <!-- Titutlo -->
 <h3 align="center">
@@ -126,10 +122,11 @@ const KennethTorres = {
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,nuxtjs" /><br>
+  <img src="./assets/Astronauta.png"/>
+    <!-- <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,nuxtjs" /><br>
     <img src="https://skillicons.dev/icons?i=react,java,nodejs,express,matlab,vite,dotnet" /><br>
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,python,astro,github,postman,git" /><br>
-    <img src="https://skillicons.dev/icons?i=r,figma,angular,notion,cs,sublime" /><br>
+    <img src="https://skillicons.dev/icons?i=r,figma,angular,notion,cs,sublime" /><br> -->
 </div>
 
 <br/>
@@ -159,8 +156,4 @@ const KennethTorres = {
   </a>
 </div>
 
-
- ending-->
-
-
- 
+ending-->
