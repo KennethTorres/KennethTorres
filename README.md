@@ -55,21 +55,23 @@ const KennethTorres = {
 <
 <br>
 <br>
-
+<br>
+<br>
 <h3 align="center">
   <img src="./assets/icons/ContactList-white.svg" width=20px>
-     My Contacts
+     My Contacts
 </h3>
-
+<br>
+<br>
 <br>
 <br>
 
 <div>
     <a href="https://www.linkedin.com/in/kennethtorres" target="_blank">
-      <img src="./assets/Redes Sociales/Telegram2.png" alt="Imagen de Linkedin"  style="width:300px; height:210px"/>
+      <img src="./assets/Redes Sociales/Telegram2.png" alt="Imagen de Linkedin"  style="width:500px; height:250px"/>
     </a>
     <a href="https://mail.google.com/mail/?view=cm&to=kennethtorresbrizuela@gmail.com" target="_blank">
-      <img src="./assets/Redes Sociales/Gmail2.png" alt="Imagen de Gmail"  style="width:300px; height:210px"/>
+      <img src="./assets/Redes Sociales/Gmail2.png" alt="Imagen de Gmail"  style="width:500px; height:250px"/>
     </a>
   <a href="https://t.me/KennethTB" target="_blank">
       <img src="./assets/Redes Sociales/Linkedin2.png" alt="Imagen de Telegram"  />
@@ -87,6 +89,7 @@ const KennethTorres = {
 
 </h3>
 <br>
+<br>
 
 <!-- Status -->
 <div align="center">
@@ -101,6 +104,7 @@ const KennethTorres = {
     My Certificates
   </h3>
 </div>
+<br>
 <br>
 <div align="center">
 <a href="https://certificados.midudev.com/21505caa-8af9-47fd-8bf7-06f80523f427.pdf" target="_blank">
@@ -122,7 +126,7 @@ const KennethTorres = {
  My Stacks 
 </h3>
 <br/>
-
+<br>
 <div align="center">
   <img src="./assets/Astronauta.png"/>
     <!-- <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,nuxtjs" /><br>
