@@ -67,10 +67,10 @@ const KennethTorres = {
 <div>
   <div>
     <a href="https://www.linkedin.com/in/kennethtorres" target="_blank">
-      <img src="./assets/Redes Sociales/Telegram2.png" alt="Imagen de Linkedin"  style="width:525px; height:270px"/>
+      <img src="./assets/Redes Sociales/Telegram2.png" alt="Imagen de Linkedin"  style="width:520px; height:270px"/>
     </a>
     <a href="https://mail.google.com/mail/?view=cm&to=kennethtorresbrizuela@gmail.com" target="_blank">
-      <img src="./assets/Redes Sociales/Gmail2.png" alt="Imagen de Gmail"  style="width:525px; height:270px"/>
+      <img src="./assets/Redes Sociales/Gmail2.png" alt="Imagen de Gmail"  style="width:520px; height:270px"/>
     </a>
   </div>
   <a href="https://t.me/KennethTB" target="_blank">
