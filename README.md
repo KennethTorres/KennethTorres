@@ -102,13 +102,13 @@ const KennethTorres = {
 <br>
 <div align="center">
 <a href="https://certificados.midudev.com/21505caa-8af9-47fd-8bf7-06f80523f427.pdf" target="_blank">
-  <img src="./assets/certificates/Midudev.png" alt="Imagen de Certificado"  style="width:60px; height:60px"/>
+  <img src="./assets/certificates/Midudev2.png" alt="Imagen de Certificado"  style="width:250px; height:250px"/>
 </a>
 <a href="https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-KennethTorres-1075951.pdf" target="_blank">
-  <img src="./assets/certificates/Scrum.png" alt="Imagen de Certificado"  style="width:60px; height:60px"/>
+  <img src="./assets/certificates/Scrum2.png" alt="Imagen de Certificado"  style="width:250px; height:250px"/>
 </a>
   <a href="" target="_blank">
-  <img src="./assets/certificates/AluraLatam.png" alt="Imagen de Certificado"  style="width:60px; height:60px"/>
+  <img src="./assets/certificates/Alura.png" alt="Imagen de Certificado"  style="width:250px; height:250px"/>
 </a>
 </div>
 <br>
