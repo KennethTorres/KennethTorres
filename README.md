@@ -57,13 +57,11 @@ const KennethTorres = {
 <br>
 <br>
 <br>
+<br>
 <h3 align="center">
   <img src="./assets/icons/ContactList-white.svg" width=20px>
      My Contacts
 </h3>
-<br>
-<br>
-<br>
 <br>
 <br>
 
