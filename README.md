@@ -58,6 +58,30 @@ const KennethTorres = {
 <br>
 <br>
 <br>
+
+<!-- My Certificates-->
+<div align="center">
+  <h3>
+     <img src="./assets/icons/CertificateBadgeFill-white.svg" width="22px">
+    My Certificates
+  </h3>
+</div>
+<br>
+<br>
+<div align="center">
+<a href="https://certificados.midudev.com/21505caa-8af9-47fd-8bf7-06f80523f427.pdf" target="_blank">
+  <img src="./assets/certificates/Midudev3.png" alt="Imagen de Certificado"  style="width:250px; height:250px"/>
+</a>
+<a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=1075951" target="_blank">
+  <img src="./assets/certificates/Scrum3.png" alt="Imagen de Certificado"  style="width:250px; height:250px"/>
+</a>
+  <a href="" target="_blank">
+  <img src="./assets/certificates/Alura2.png" alt="Imagen de Certificado"  style="width:250px; height:250px"/>
+</a>
+</div>
+<br>
+<br>
+
 <h3 align="center">
   <img src="./assets/icons/ContactList-white.svg" width=20px>
      My Contacts
@@ -82,7 +106,7 @@ const KennethTorres = {
 
 <!-- github status-->
 <!-- Titutlo -->
-<h3 align="center">
+<!-- <h3 align="center">
   <img src="./assets/icons/github-white.svg" width=20px>
      Github Status 
 
@@ -91,33 +115,12 @@ const KennethTorres = {
 <br>
 
 <!-- Status -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KennethTorres&theme=graywhite&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 <br>
-<br>
-<!-- My Certificates-->
-<div align="center">
-  <h3>
-     <img src="./assets/icons/CertificateBadgeFill-white.svg" width="22px">
-    My Certificates
-  </h3>
-</div>
-<br>
-<br>
-<div align="center">
-<a href="https://certificados.midudev.com/21505caa-8af9-47fd-8bf7-06f80523f427.pdf" target="_blank">
-  <img src="./assets/certificates/Midudev3.png" alt="Imagen de Certificado"  style="width:250px; height:250px"/>
-</a>
-<a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=1075951" target="_blank">
-  <img src="./assets/certificates/Scrum3.png" alt="Imagen de Certificado"  style="width:250px; height:250px"/>
-</a>
-  <a href="" target="_blank">
-  <img src="./assets/certificates/Alura2.png" alt="Imagen de Certificado"  style="width:250px; height:250px"/>
-</a>
-</div>
-<br>
-<br>
+<br>  -->
+
 <!-- My Stacks -->
 <!-- Titulo -->
 <h3 align="center">
