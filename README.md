@@ -52,28 +52,32 @@ const KennethTorres = {
    
   <!-- Seccion del contenido de "un poco mas sobre mi" -->
    I consider myself a curious, focused person who is always looking for challenges that push me out of my comfort zone. I enjoy working with server-side technologies and structuring solid, clean, and scalable solutions. I enjoy learning from those who have more experience than me, and I also love sharing what I know with those who are just starting out. I believe in the importance of logical thinking, collaboration, and simplicity as key principles in software development.
+<
+<br>
+<br>
 
-<br>
-<br>
-  <h3 align="center">
-    <br>
-    <img src="./assets/icons/ContactList-white.svg" width=20px>
+<h3 align="center">
+  <img src="./assets/icons/ContactList-white.svg" width=20px>
      My Contacts
-  </h3>
+</h3>
+
+<br>
 <br>
 
-<div align="center">
+<div>
+  <div>
+    <a href="https://www.linkedin.com/in/kennethtorres" target="_blank">
+      <img src="./assets/Redes Sociales/Telegram2.png" alt="Imagen de Linkedin"  style="width:525px; height:270px"/>
+    </a>
+    <a href="https://mail.google.com/mail/?view=cm&to=kennethtorresbrizuela@gmail.com" target="_blank">
+      <img src="./assets/Redes Sociales/Gmail2.png" alt="Imagen de Gmail"  style="width:525px; height:270px"/>
+    </a>
+  </div>
+  <a href="https://t.me/KennethTB" target="_blank">
+      <img src="./assets/Redes Sociales/Linkedin2.png" alt="Imagen de Telegram"  />
   </a>
-<a href="https://www.linkedin.com/in/kennethtorres" target="_blank">
-  <img src="./assets/Redes Sociales/Linkedin.png" alt="Imagen de Linkedin"  style="width:100px; height:100px"/>
-</a>
-<a href="https://mail.google.com/mail/?view=cm&to=kennethtorresbrizuela@gmail.com" target="_blank">
-  <img src="./assets/Redes Sociales/Gmail.png" alt="Imagen de Gmail"  style="width:100px; height:100px"/>
-<a href="https://t.me/KennethTB" target="_blank">
-  <img src="./assets/Redes Sociales/Telegram.png" alt="Imagen de Telegram"  style="width:100px; height:100px"/>
-</a>
 </div>
-  
+
 <br>
 <br>
 
